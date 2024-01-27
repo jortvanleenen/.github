@@ -8,6 +8,6 @@ If you believe you have found a security vulnerability in this project, please f
 2. Email details of the vulnerability to [Jort van Leenen](mailto:jort@vleenen.nl).
 3. Allow some time for the issue to be reviewed and fixed before disclosing it publicly.
 
-I/We appreciate your efforts to responsibly disclose your findings, and we will make every effort to acknowledge your contributions.
+I/We appreciate your efforts to responsibly disclose your findings, and I/we will make every effort to acknowledge your contributions.
 
 Thank you for helping to keep this project safe and secure.
