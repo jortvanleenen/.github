@@ -1,8 +1,10 @@
 # Contributing
 
-Thank you for your interest in contributing to this project! By participating, you agree to uphold our Code of Conduct.
+Thank you for your interest in contributing to this project!
 
 ## How to Contribute
+### Pull Request
+Pull requests are the preferred method of contribution when adding to and/or modifying the content of the repository.
 
 1. Fork the repository and create your branch from `main`.
 2. Clone the forked repository to your local machine.
@@ -11,21 +13,19 @@ Thank you for your interest in contributing to this project! By participating, y
 5. Commit your changes with clear and concise messages.
 6. Push your changes to your fork and submit a pull request.
 
-**Note**: Issues are a valid reason for contribution too! You can contribute by:
-
-- Helping to triage issues, reproduce bugs, or clarify feature requests.
-- Providing additional context or information on existing issues.
+### Issues
+Issues are a valid reason for contribution too. You can contribute by:
+- Helping to triage issues, reproduce bugs, or clarify feature requests;
+- Providing additional context or information on existing issues;
 - Suggesting improvements to the project or its documentation.
+
+At least two default issue templates have been created to suggest a feature or report a bug. To increase consistency, please follow these templates when creating an issue. Aim to be as precise and concise as possible, while including as much relevant detail as you can.
+
+**Security-related Issues**: If you discover a security-related issue, please review our [Security Policy](SECURITY.md). We appreciate your efforts to responsibly disclose your findings.
 
 ## Code of Conduct
 
 Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions.
-
-## Reporting Issues
-
-If you find a bug, please open an issue on the GitHub repository. Provide as much detail as possible, for example, including the version you are using, your operating system, and any relevant code snippets.
-
-**Security-related Issues**: If you discover a security-related issue, please review our [Security Policy](SECURITY.md). We appreciate your efforts to responsibly disclose your findings.
 
 ## Contact
 
